@@ -1,4 +1,4 @@
-# M2_Air-Quality-Monitoring-System
+# M2_Air_Quality_Monitoring_System
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/abb882a618364445a26bb5c6d3ab3d04)](https://www.codacy.com/gh/HarshavardhanMuppuri/M2_Air-Quality-Monitoring-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshavardhanMuppuri/M2_Air-Quality-Monitoring-System&amp;utm_campaign=Badge_Grade)
