@@ -11,6 +11,14 @@
 ![Code Grade](https://api.codiga.io/project/33093/status/svg)
 
 
+## Activity based learning
+[![CI](https://github.com/HarshavardhanMuppuri/M2_Air-Quality-Monitoring-System/actions/workflows/CI.yml/badge.svg)](https://github.com/HarshavardhanMuppuri/M2_Air-Quality-Monitoring-System/actions/workflows/CI.yml)
+
+
+[![Build linux](https://github.com/HarshavardhanMuppuri/M2_Air-Quality-Monitoring-System/actions/workflows/linux.yml/badge.svg)](https://github.com/HarshavardhanMuppuri/M2_Air-Quality-Monitoring-System/actions/workflows/linux.yml)
+
+[![Cpp check](https://github.com/HarshavardhanMuppuri/M2_Air-Quality-Monitoring-System/actions/workflows/Cpp%20check.yml/badge.svg)](https://github.com/HarshavardhanMuppuri/M2_Air-Quality-Monitoring-System/actions/workflows/Cpp%20check.yml)
+
 
 ![image](https://user-images.githubusercontent.com/101695762/164881068-8620911b-2073-4f7f-9f0a-d7c193b937f8.png)
 
